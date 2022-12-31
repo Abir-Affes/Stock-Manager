@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672507121 source:c:\users\msi\desktop\nouveau dossier\proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	"projet.h"
+	<string.h>
+
+1672507121 c:\users\msi\desktop\nouveau dossier\proj\projet.h
+	<string.h>
+
